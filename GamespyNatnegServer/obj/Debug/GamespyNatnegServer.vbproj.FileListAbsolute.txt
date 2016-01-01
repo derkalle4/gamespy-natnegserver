@@ -1,0 +1,10 @@
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\bin\Debug\GamespyNatnegServer.exe.config
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\bin\Debug\GamespyNatnegServer.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\bin\Debug\GamespyNatnegServer.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\bin\Debug\GamespyNatnegServer.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\bin\Debug\mysql.data.dll
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\obj\Debug\GamespyNatnegServer.Resources.resources
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\obj\Debug\GamespyNatnegServer.vbproj.GenerateResource.Cache
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\obj\Debug\GamespyNatnegServer.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\obj\Debug\GamespyNatnegServer.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyNatnegServer\GamespyNatnegServer\obj\Debug\GamespyNatnegServer.pdb

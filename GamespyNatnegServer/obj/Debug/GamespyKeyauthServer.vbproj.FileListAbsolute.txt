@@ -1,0 +1,18 @@
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.exe.config
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.exe
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.pdb
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.xml
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.Resources.resources
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.vbproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.exe
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.xml
+c:\users\jan\documents\visual studio 2013\Projects\GamespyKeyauthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.exe.config
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\bin\Debug\GamespyKeyauthServer.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.Resources.resources
+C:\Users\Jan\Documents\GamespyMasterServer\GamespyKeyAuthServer\GamespyKeyauthServer\obj\Debug\GamespyKeyauthServer.vbproj.GenerateResource.Cache

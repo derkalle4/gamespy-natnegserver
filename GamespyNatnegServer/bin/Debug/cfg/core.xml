@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UDPHeartbeatPort>27901</UDPHeartbeatPort>
+  <UDPHeartbeatAddress>0.0.0.0</UDPHeartbeatAddress>
+  <CleanupInterval>3600</CleanupInterval>
+  <CleanupTimeout>3600</CleanupTimeout>
+  <LogToFile>false</LogToFile>
+  <LogFileName>/log.txt</LogFileName>
+  <Loglevel>2</Loglevel>
+  <MySQLHostname>localhost</MySQLHostname>
+  <MySQLPort>3306</MySQLPort>
+  <MySQLDatabase>swbf2</MySQLDatabase>
+  <MySQLUsername>root</MySQLUsername>
+  <MySQLPwd />
+  <ServerID>0</ServerID>
+  <P2PPort>14131</P2PPort>
+  <P2PAddress>0.0.0.0</P2PAddress>
+  <P2PEnable>true</P2PEnable>
+  <P2PKey>abcd</P2PKey>
+</CoreConfig>
